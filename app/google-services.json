@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "136394200286",
+    "firebase_url": "https://pickbook-6c355.firebaseio.com",
+    "project_id": "pickbook-6c355",
+    "storage_bucket": "pickbook-6c355.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136394200286:android:3325caaca05b07e4ef1e4f",
+        "android_client_info": {
+          "package_name": "com.yashrajsinh.pickbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136394200286-a7d5grbmh96v8kbh4p0e6rrjs100c5pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abrarlohia.pickbook",
+            "certificate_hash": "27e2106994d6d7d9db963a5e6b0020bcbbeea5e9"
+          }
+        },
+        {
+          "client_id": "136394200286-ueid5idmjj8jb2bie0c5h0t8cht24djr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuUnuDg-F3aMuiwRJQj_qkOS-cD6mN2to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136394200286-ueid5idmjj8jb2bie0c5h0t8cht24djr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
